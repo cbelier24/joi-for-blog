@@ -1,0 +1,10 @@
+{
+  "my_new_car": {
+    "color": "red",
+    "edition": "GT",
+    "brand": "tesla",
+    "immatriculation": "AA-123-ZZ",
+    "immatriculationDate": "2022-02-02",
+    "options": ["overview_360", "touch_screen_12_inch", "pack_full_led", "electric_windows", "AC", "ABS"],
+  }
+}
